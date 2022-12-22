@@ -1,0 +1,8 @@
+#directories to be ignored while commiting to github
+.vs/
+bin/
+bin-int/
+temp/
+
+#files to be ignored while commiting to github
+*.user
